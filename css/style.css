@@ -166,12 +166,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   width: 100%;
-}
-.sweet-backet {
   margin-right: auto;
-}
-.power-less {
-  margin-left: auto;
 }
 .card:before {
   z-index: -1;
