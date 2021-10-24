@@ -387,6 +387,7 @@ body {
 }
 .benefits-cards {
   margin: -20px;
+  margin-bottom: 200px;
   display: flex;
   justify-content: space-between;
   background: #f6f6f6;
